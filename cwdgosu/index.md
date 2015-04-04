@@ -17,7 +17,7 @@
 ^ [mike cohn](http://www.mountaingoatsoftware.com/)
 
 ##### another version
-<img src="images/anand_bagmar_pyramid.jpg" width="100">
+<img src="/images/anand_bagmar_pyramid.jpg" width="100">
 
 ^ [anand bagmar](http://www.slideshare.net/abagmar/anand-bagmar-behavior-driven-testing-bdt-in-agile)
 
