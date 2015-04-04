@@ -9,11 +9,16 @@
 
 ### basic test principles
 #### the pyramid
-![the simple version](/images/martin_fowler_pyramid.png)
+##### the simple version
+<img src="/images/martin_fowler_pyramid.png" width="100">
+
 ^ [martin fowler](http://martinfowler.com/bliki/TestPyramid.html)
+
 ^ [mike cohn](http://www.mountaingoatsoftware.com/)
 
-![another version](/images/anand_bagmar_pyramid.jpg)
+##### another version
+<img src="images/anand_bagmar_pyramid.jpg" width="100">
+
 ^ [anand bagmar](http://www.slideshare.net/abagmar/anand-bagmar-behavior-driven-testing-bdt-in-agile)
 
 #### the blocks
