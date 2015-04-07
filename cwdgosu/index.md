@@ -55,6 +55,11 @@
 ## testing in action
 ### tdd game of life
 ### static sites
+- jekyll
+#### broken links
+<img src="/images/broken_link1.png" width="400">
+<img src="/images/broken_link2.png" width="400">
+
 ### dynamic sites
 ### front end challenge
 
