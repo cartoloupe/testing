@@ -21,16 +21,55 @@
 
 ^ [anand bagmar](http://www.slideshare.net/abagmar/anand-bagmar-behavior-driven-testing-bdt-in-agile)
 
+-> [google testing blog's 30 min video on unit tests](http://googletesting.blogspot.com/2008/11/clean-code-talks-unit-testing.html)
+
 #### the blocks
+<img src="/images/hodgson_blocks.png" width="100">
+
+^ [pete hodgson](http://www.catchtalk.tv/events/confreaks/videos/railsconf-2014-rails-as-an-soa-client-by-pete-hodgson)
+
+##### unit tests
+##### integration tests
+##### acceptance tests
+
+
+
+
+#### write tests first
+##### red green refactor
+
+#### orbit
+
+
+
 
 
 ## why you should test
+### cost of change
+### light bulb
+### canary
+### guide design
+### near instant feedback
+### know which X broke Y
 
 ## testing in action
 ### tdd game of life
 ### static sites
 ### dynamic sites
 ### front end challenge
+
+### more examples
+mvc
+unit tests
+integration tests
+acceptance tests
+continuous
+  ci
+  travis
+  jenkins
+  guard
+
+
 
 ## tools
 ### JAVASCRIPT
