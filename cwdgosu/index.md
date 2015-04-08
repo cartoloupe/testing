@@ -3,7 +3,7 @@
 
 
 ## what testing is
-### THE HOT SOUP PROBLEM
+### the hot soup problem
  - boxes of hot soup to be delivered
  - how to determine how many parallel packers?
 
@@ -66,15 +66,15 @@
 ### front end challenge
 
 ### more examples
-mvc
-unit tests
-integration tests
-acceptance tests
-continuous
-  ci
-  travis
-  jenkins
-  guard
+#### mvc
+#### unit tests
+#### integration tests
+#### acceptance tests
+#### continuous
+##### ci
+##### travis
+##### jenkins
+##### guard
 
 
 
@@ -82,12 +82,12 @@ continuous
 ### JAVASCRIPT
  - npm built in script
  - gulp, grunt
-   - ben gladwell’s beard repo for gulp
+   - [ben gladwell’s fridgewords repo for gulp](https://github.com/bengladwell/fridgewords)
  - mocha
  - chai
  - sinon
  - jasmine
- - frisbyjs
+ - [frisbyjs](http://frisbyjs.com/) - REST API test tool
 
 ### RUBY/RAILS
  - rspec
