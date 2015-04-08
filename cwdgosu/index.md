@@ -59,6 +59,8 @@
 #### broken links
 <img src="/images/broken_link1.png" width="400">
 <img src="/images/broken_link2.png" width="400">
+#### spell checker
+#### cliche checker
 
 ### dynamic sites
 ### front end challenge
