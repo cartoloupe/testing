@@ -56,9 +56,11 @@
 ### tdd game of life
 ### static sites
 - jekyll
+
 #### broken links
 <img src="/images/broken_link1.png" width="600">
 <img src="/images/broken_link2.png" width="600">
+
 #### spell checker
 #### cliche checker
 
