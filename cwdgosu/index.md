@@ -75,6 +75,7 @@
 
 #### continuous
 - travis
+  - [jekyll's travis](http://jekyllrb.com/docs/continuous-integration/)
 - jenkins
 - [guard](https://github.com/guard/guard)
 
