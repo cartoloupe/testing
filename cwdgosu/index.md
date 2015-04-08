@@ -10,21 +10,21 @@
 ### basic test principles
 #### the pyramid
 ##### the simple version
-<img src="/images/martin_fowler_pyramid.png" width="400">
+<img src="/images/martin_fowler_pyramid.png" width="600">
 
 ^ [martin fowler](http://martinfowler.com/bliki/TestPyramid.html)
 
 ^ [mike cohn](http://www.mountaingoatsoftware.com/)
 
 ##### another version
-<img src="/images/anand_bagmar_pyramid.jpg" width="400">
+<img src="/images/anand_bagmar_pyramid.jpg" width="600">
 
 ^ [anand bagmar](http://www.slideshare.net/abagmar/anand-bagmar-behavior-driven-testing-bdt-in-agile)
 
 -> [google testing blog's 30 min video on unit tests](http://googletesting.blogspot.com/2008/11/clean-code-talks-unit-testing.html)
 
 #### the blocks
-<img src="/images/hodgson_blocks.png" width="400">
+<img src="/images/hodgson_blocks.png" width="600">
 
 ^ [pete hodgson](http://www.catchtalk.tv/events/confreaks/videos/railsconf-2014-rails-as-an-soa-client-by-pete-hodgson)
 
@@ -57,8 +57,8 @@
 ### static sites
 - jekyll
 #### broken links
-<img src="/images/broken_link1.png" width="400">
-<img src="/images/broken_link2.png" width="400">
+<img src="/images/broken_link1.png" width="600">
+<img src="/images/broken_link2.png" width="600">
 #### spell checker
 #### cliche checker
 
