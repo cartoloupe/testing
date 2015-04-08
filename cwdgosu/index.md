@@ -69,15 +69,14 @@
 
 ### more examples
 #### mvc
-#### unit tests
-#### integration tests
-#### acceptance tests
-#### continuous
-##### ci
-##### travis
-##### jenkins
-##### guard
+- unit tests
+- integration tests
+- acceptance tests
 
+#### continuous
+- travis
+- jenkins
+- [guard](https://github.com/guard/guard)
 
 
 ## tools
@@ -95,7 +94,7 @@
  - rspec
  - minitest
  - cucumber
- - guard
+ - [guard](https://github.com/guard/guard)
  - rake
  - binding.pry
  - pry-rescue
@@ -113,6 +112,9 @@
 
 ### shell
  - curl
+```bash
+curl "localhost:4000"
+```
 
 
 ### the end
