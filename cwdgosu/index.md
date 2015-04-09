@@ -53,9 +53,15 @@
 ### know which X broke Y
 
 ## testing in action
+### exercises
+- [pair columbus](http://paircolumbus.org/)
 ### tdd game of life
+- [wiki](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+- [prime number generator](http://www.conwaylife.com/w/index.php?title=Primer)
+
 ### static sites
 - jekyll
+- middleman
 
 #### broken links
 <img src="/images/broken_link1.png" width="600">
@@ -65,7 +71,15 @@
 #### cliche checker
 
 ### dynamic sites
+- sinatra
+- rails
+- express
+
+#### tests
+- basic login test
+
 ### front end challenge
+- shopify about page
 
 ### more examples
 #### mvc
