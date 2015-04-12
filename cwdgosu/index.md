@@ -32,16 +32,10 @@
 ##### integration tests
 ##### acceptance tests
 
-
-
-
 #### write tests first
 ##### red green refactor
 
 #### orbit
-
-
-
 
 
 ## why you should test
@@ -55,6 +49,7 @@
 ## testing in action
 ### exercises
 - [pair columbus](http://paircolumbus.org/)
+
 ### tdd game of life
 - [wiki](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 - [prime number generator](http://www.conwaylife.com/w/index.php?title=Primer)
@@ -84,6 +79,16 @@
 ### more examples
 #### mvc
 - unit tests
+```ruby
+    describe '#normalize!' do
+      it 'normalizes coordinates to "[0,x],[60,y]" form' do
+        coordinate = Coordinate.new(300,3,240,4)
+        coordinate.normalize!
+        expect(coordinate.coordinates).to eq [[0,3], [60,-7]]
+      end
+    end
+```
+
 - integration tests
 - acceptance tests
 
