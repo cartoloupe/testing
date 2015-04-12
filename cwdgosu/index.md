@@ -96,6 +96,13 @@
 ```
 
 - integration tests
+<img src="/images/integration_test_hartl.png" width="600">
+
+^ [flash persistence test](https://www.railstutorial.org/book/log_in_log_out#code-flash_persistence_test)
+
+^ [hartl's rails tutorial](https://www.railstutorial.org/book)
+
+
 - acceptance tests
 
 #### continuous
