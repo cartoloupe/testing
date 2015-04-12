@@ -73,8 +73,14 @@
 #### tests
 - basic login test
 
-### front end challenge
-- shopify about page
+### front end challenges
+- [shopify about page](http://www.shopify.com/about)
+
+<img src="/images/shopify_about_page.png" width="600">
+
+  - browsers
+  - cache
+
 
 ### more examples
 #### mvc
