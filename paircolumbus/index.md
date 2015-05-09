@@ -29,8 +29,28 @@
 ^ [pete hodgson](http://www.catchtalk.tv/events/confreaks/videos/railsconf-2014-rails-as-an-soa-client-by-pete-hodgson)
 
 ##### unit tests
+- take the smallest piece of testable software in the application
+- isolate it from the remainder of the code
+- determine whether it behaves exactly as you expect
+  > [wiki](http://en.wikipedia.org/wiki/Unit_testing)
+
+
+<img src="/images/a_unit_test.png" width="600">
+
 ##### integration tests
+- individual software modules are combined and tested as a group
+```cucumber
+  When I visit the login page
+  And fill out the account signup
+  I should receive an email about it
+  And I should be logged in
+```
+
 ##### acceptance tests
+- contract
+- the soup should not be cold
+- the soup should not be less than 90 degrees
+- the soup should not be less than 90 degrees Fahrenheit
 
 #### write tests first
 ##### red green refactor
